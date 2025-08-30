@@ -23,7 +23,8 @@ You can generate random strings with customizable options (numbers, alphabets, o
 
 
 ## 📸 Screenshots
-<img width="946" height="741" alt="screenshot" src="https://github.com/user-attachments/assets/f0562d86-48d6-443b-ba59-77575f552040" />
+<img width="946" height="741" alt="captcha" src="https://github.com/user-attachments/assets/89a7ad63-edd9-455c-b6d8-45bd6e4cd218" />
+
 
 
 ## 📂 Installation & Setup
