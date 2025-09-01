@@ -14,6 +14,12 @@ You can generate random strings with customizable options (numbers, alphabets, o
 
 ---
 
+
+## 🚀 Live Demo
+👉 [Check it out here](https://captcha-generatorbyswati.netlify.app/)  
+
+---
+
 ## 🛠️ Tech Stack
 
 - **React.js** (Frontend)  
