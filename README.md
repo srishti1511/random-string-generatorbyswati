@@ -23,8 +23,9 @@ You can generate random strings with customizable options (numbers, alphabets, o
 ## 🛠️ Tech Stack
 
 - **React.js** (Frontend)  
-- **CSS** (Styling, animations)  
-
+- **CSS** (Styling, animations)
+- **JavaScript**
+-  
 ---
 
 
